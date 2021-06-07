@@ -11,6 +11,5 @@ N=int(input("Ingrese un número"))
 
 if(N>=3 and N<=30)
 
-
   Factorial(N)
 
